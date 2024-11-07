@@ -1,8 +1,10 @@
-##Features
+### October 1, 2024
+
+## Features
 
   Two player local game
 
-##Game Rules
+## Game Rules
 
   The Mancala board consists of two rows of six pits each, and a store on each player's right side.
   
@@ -20,7 +22,7 @@
   
   The player with the most pebbles in their store at the end of the game wins.
 
-##Classes
+## Classes
   
   Pit- to manage the pebbles in a Pit
   
